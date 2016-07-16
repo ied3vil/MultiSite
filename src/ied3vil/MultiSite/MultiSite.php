@@ -1,7 +1,7 @@
 <?php
 
 
-namespace ied3vil;
+namespace ied3vil\MultiSite;
 
 
 class MultiSite
